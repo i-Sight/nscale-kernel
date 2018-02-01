@@ -6,7 +6,7 @@
     "deployer",
     "nscale"
   ],
-  "version": "0.17.9",
+  "version": "0.17.10-isight",
   "license": "Artistic-2.0",
   "contributors": [
     "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)",
@@ -25,7 +25,7 @@
     "blank-container": "~0.3.0",
     "bunyan": "^1.0.0",
     "callback-stream": "^1.0.2",
-    "docker-container": "~0.17.0",
+    "docker-container": "git://github.com/i-Sight/docker-container#v0.17.2-isight",
     "fs-extra": "^0.18.2",
     "generify": "^1.1.0",
     "gift": "^0.4.2",
