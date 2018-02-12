@@ -1,0 +1,19 @@
+{
+  "kernel": {
+    "port": "3223",
+    "root": "./data/"
+  },
+  "modules": {
+    "protocol": {
+      "require": "nscale-protocol",
+      "specific": {
+      }
+    },
+    "authorization": {
+      "require": "nscale-noauth",
+      "specific": {
+        "credentialsPath": "./data"
+      }
+    }
+  }
+}
