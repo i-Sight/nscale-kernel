@@ -6,7 +6,7 @@
     "deployer",
     "nscale"
   ],
-  "version": "0.17.14-isight",
+  "version": "0.17.15-isight",
   "license": "Artistic-2.0",
   "contributors": [
     "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)",
@@ -14,7 +14,7 @@
     "Luca Lanziani <luca@lanziani.com>"
   ],
   "engines": {
-    "node": "*"
+    "node": ">=0.10 <=0.12"
   },
   "dependencies": {
     "async": "^0.9.0",
